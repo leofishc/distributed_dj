@@ -1,0 +1,10 @@
+{
+  "ClientID":"Client1",
+  "PeerAddrs":[],
+  "PrivateIP": "0.0.0.0",
+  "PublicIP": "40.85.241.50",
+  "IncomingPort": "8080",
+  "TerminalListeningAddr": "0.0.0.0:8081",
+  "SongPath": "client_songs/",
+  "SongListeningPort": "8082"
+}

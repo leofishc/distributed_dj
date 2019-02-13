@@ -1,0 +1,6 @@
+{
+  "TerminalID": "Terminal2",
+  "ClientAddr": "13.71.190.238:8081",
+  "SongPath": "./songs",
+  "TerminalAddr": "0.0.0.0:9091"
+}
